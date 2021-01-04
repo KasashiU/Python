@@ -1,0 +1,2 @@
+Uh... Hi! My name is Marco, and... Im here to share my first codes in my start of this study. Im making this why... I want to reach in a future where i look to the past and read, "Hey, im really started this", or... "Im really maked this code work!". My actually objective is... Study and improve my performance with simple code lines/projects, and refine this codes, be it visually, technically or objectively;
+ This project is basically random python codes if i want to keep, to look in the future and refine.
